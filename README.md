@@ -6,7 +6,7 @@ GetFestivalDate.py is the main file of the project.
 ## ScreenShots
 ![](http://7bvaky.com2.z0.glb.qiniucdn.com/2017-01-07_17_26_01_daojishi.png)
 ## Details
-The details of this project can be seen here: [orzangleli.com](http://www.orzangleli.com/)
+The details of this project can be seen here: [orzangleli.com](http://www.orzangleli.com/2017/01/07/2017-01-07_Python%E8%8A%82%E6%97%A5%E5%80%92%E8%AE%A1%E6%97%B6%E8%BD%AF%E4%BB%B6/)
 
 
 ## MIT License
